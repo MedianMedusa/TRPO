@@ -16,7 +16,7 @@ cat <<'msgend'
 
 hello world
 this is my homework for linux
-privet ilya
+
 
 
 msgend
